@@ -1,2 +1,2 @@
 # html-protofolio
-projects i havd done till this time
+projects i have done till this time
